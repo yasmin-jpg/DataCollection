@@ -1,0 +1,508 @@
+[2025-12-04T23:17:35.454+0600] {processor.py:157} INFO - Started process (PID=38912) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:17:35.455+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:17:35.455+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:17:35.455+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:17:35.466+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:17:35.766+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:17:35.766+0600] {manager.py:499} INFO - Created Permission View: %s
+[2025-12-04T23:17:35.770+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:17:35.770+0600] {manager.py:499} INFO - Created Permission View: %s
+[2025-12-04T23:17:35.772+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:17:35.772+0600] {manager.py:499} INFO - Created Permission View: %s
+[2025-12-04T23:17:35.772+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:17:35.772+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:17:35.776+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:17:35.776+0600] {dag.py:2963} INFO - Creating ORM DAG for tutorial
+[2025-12-04T23:17:35.779+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:17:35.779+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:17:35.779842+00:00, run_after=2025-12-04T17:17:35.779842+00:00
+[2025-12-04T23:17:35.787+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.333 seconds
+[2025-12-04T23:18:54.359+0600] {processor.py:157} INFO - Started process (PID=39008) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:18:54.360+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:18:54.360+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:18:54.360+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:18:54.372+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:18:54.443+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:18:54.443+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:18:54.449+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:18:54.449+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:18:54.449608+00:00, run_after=2025-12-04T17:18:54.449608+00:00
+[2025-12-04T23:18:54.456+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.097 seconds
+[2025-12-04T23:19:40.174+0600] {processor.py:157} INFO - Started process (PID=39061) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:19:40.174+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:19:40.175+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:19:40.175+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:19:40.187+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:19:40.260+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:19:40.260+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:19:40.266+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:19:40.266+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:19:40.266515+00:00, run_after=2025-12-04T17:19:40.266515+00:00
+[2025-12-04T23:19:40.273+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.100 seconds
+[2025-12-04T23:20:23.916+0600] {processor.py:157} INFO - Started process (PID=39110) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:20:23.917+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:20:23.917+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:20:23.917+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:20:23.929+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:20:24.002+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:20:24.002+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:20:24.008+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:20:24.008+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:20:24.008603+00:00, run_after=2025-12-04T17:20:24.008603+00:00
+[2025-12-04T23:20:24.016+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.100 seconds
+[2025-12-04T23:21:04.995+0600] {processor.py:157} INFO - Started process (PID=39150) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:21:04.996+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:21:04.996+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:21:04.996+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:21:05.007+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:21:05.078+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:21:05.078+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:21:05.084+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:21:05.084+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:21:05.084608+00:00, run_after=2025-12-04T17:21:05.084608+00:00
+[2025-12-04T23:21:05.092+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.098 seconds
+[2025-12-04T23:21:49.576+0600] {processor.py:157} INFO - Started process (PID=39218) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:21:49.576+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:21:49.577+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:21:49.577+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:21:49.588+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:21:49.658+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:21:49.658+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:21:49.664+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:21:49.664+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:21:49.664754+00:00, run_after=2025-12-04T17:21:49.664754+00:00
+[2025-12-04T23:21:49.672+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.097 seconds
+[2025-12-04T23:22:30.781+0600] {processor.py:157} INFO - Started process (PID=39258) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:22:30.782+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:22:30.782+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:22:30.782+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:22:30.793+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:22:30.862+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:22:30.862+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:22:30.869+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:22:30.868+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:22:30.868918+00:00, run_after=2025-12-04T17:22:30.868918+00:00
+[2025-12-04T23:22:30.876+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.096 seconds
+[2025-12-04T23:23:16.062+0600] {processor.py:157} INFO - Started process (PID=39293) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:23:16.063+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:23:16.063+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:23:16.063+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:23:16.074+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:23:16.144+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:23:16.144+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:23:16.150+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:23:16.150+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:23:16.150251+00:00, run_after=2025-12-04T17:23:16.150251+00:00
+[2025-12-04T23:23:16.157+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.096 seconds
+[2025-12-04T23:24:04.715+0600] {processor.py:157} INFO - Started process (PID=39455) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:24:04.717+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:24:04.717+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:24:04.717+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:24:04.728+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:24:04.798+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:24:04.798+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:24:04.805+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:24:04.805+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:24:04.805586+00:00, run_after=2025-12-04T17:24:04.805586+00:00
+[2025-12-04T23:24:04.813+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.098 seconds
+[2025-12-04T23:24:52.670+0600] {processor.py:157} INFO - Started process (PID=39493) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:24:52.672+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:24:52.672+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:24:52.672+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:24:52.683+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:24:52.755+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:24:52.755+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:24:52.762+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:24:52.762+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:24:52.762044+00:00, run_after=2025-12-04T17:24:52.762044+00:00
+[2025-12-04T23:24:52.770+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.100 seconds
+[2025-12-04T23:25:39.590+0600] {processor.py:157} INFO - Started process (PID=39544) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:25:39.592+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:25:39.592+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:25:39.592+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:25:39.603+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:25:39.673+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:25:39.672+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:25:39.679+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:25:39.679+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:25:39.679032+00:00, run_after=2025-12-04T17:25:39.679032+00:00
+[2025-12-04T23:25:39.686+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.097 seconds
+[2025-12-04T23:26:26.374+0600] {processor.py:157} INFO - Started process (PID=39593) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:26:26.375+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:26:26.375+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:26:26.375+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:26:26.387+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:26:26.457+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:26:26.457+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:26:26.463+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:26:26.463+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:26:26.463616+00:00, run_after=2025-12-04T17:26:26.463616+00:00
+[2025-12-04T23:26:26.471+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.097 seconds
+[2025-12-04T23:27:16.743+0600] {processor.py:157} INFO - Started process (PID=39638) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:27:16.743+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:27:16.744+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:27:16.744+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:27:16.759+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:27:16.829+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:27:16.829+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:27:16.835+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:27:16.835+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:27:16.835736+00:00, run_after=2025-12-04T17:27:16.835736+00:00
+[2025-12-04T23:27:16.843+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.101 seconds
+[2025-12-04T23:28:03.498+0600] {processor.py:157} INFO - Started process (PID=39688) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:28:03.499+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:28:03.499+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:28:03.499+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:28:03.511+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:28:03.580+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:28:03.580+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:28:03.589+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:28:03.589+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:28:03.589361+00:00, run_after=2025-12-04T17:28:03.589361+00:00
+[2025-12-04T23:28:03.597+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.099 seconds
+[2025-12-04T23:28:46.553+0600] {processor.py:157} INFO - Started process (PID=39732) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:28:46.554+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:28:46.554+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:28:46.554+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:28:46.566+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:28:46.636+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:28:46.636+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:28:46.642+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:28:46.642+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:28:46.642475+00:00, run_after=2025-12-04T17:28:46.642475+00:00
+[2025-12-04T23:28:46.650+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.098 seconds
+[2025-12-04T23:29:27.633+0600] {processor.py:157} INFO - Started process (PID=39768) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:29:27.634+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:29:27.634+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:29:27.634+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:29:27.645+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:29:27.716+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:29:27.716+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:29:27.723+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:29:27.723+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:29:27.722989+00:00, run_after=2025-12-04T17:29:27.722989+00:00
+[2025-12-04T23:29:27.730+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.097 seconds
+[2025-12-04T23:30:10.379+0600] {processor.py:157} INFO - Started process (PID=39802) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:30:10.380+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:30:10.380+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:30:10.380+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:30:10.392+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:30:10.463+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:30:10.463+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:30:10.470+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:30:10.470+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:30:10.470098+00:00, run_after=2025-12-04T17:30:10.470098+00:00
+[2025-12-04T23:30:10.477+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.098 seconds
+[2025-12-04T23:31:30.774+0600] {processor.py:157} INFO - Started process (PID=39869) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:31:30.775+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:31:30.775+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:31:30.775+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:31:30.787+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:31:30.857+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:31:30.857+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:31:30.863+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:31:30.863+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:31:30.863544+00:00, run_after=2025-12-04T17:31:30.863544+00:00
+[2025-12-04T23:31:30.871+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.097 seconds
+[2025-12-04T23:32:15.159+0600] {processor.py:157} INFO - Started process (PID=39973) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:32:15.160+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:32:15.160+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:32:15.160+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:32:15.172+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:32:15.242+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:32:15.242+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:32:15.249+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:32:15.249+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:32:15.249135+00:00, run_after=2025-12-04T17:32:15.249135+00:00
+[2025-12-04T23:32:15.257+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.098 seconds
+[2025-12-04T23:33:00.183+0600] {processor.py:157} INFO - Started process (PID=40085) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:33:00.184+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:33:00.185+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:33:00.185+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:33:00.201+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:33:00.273+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:33:00.272+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:33:00.279+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:33:00.279+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:33:00.279170+00:00, run_after=2025-12-04T17:33:00.279170+00:00
+[2025-12-04T23:33:00.287+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.104 seconds
+[2025-12-04T23:33:40.665+0600] {processor.py:157} INFO - Started process (PID=40131) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:33:40.666+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:33:40.666+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:33:40.666+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:33:40.677+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:33:40.747+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:33:40.747+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:33:40.754+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:33:40.753+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:33:40.753898+00:00, run_after=2025-12-04T17:33:40.753898+00:00
+[2025-12-04T23:33:40.761+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.097 seconds
+[2025-12-04T23:34:24.660+0600] {processor.py:157} INFO - Started process (PID=40174) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:34:24.661+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:34:24.661+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:34:24.661+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:34:24.673+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:34:24.744+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:34:24.744+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:34:24.751+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:34:24.751+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:34:24.751155+00:00, run_after=2025-12-04T17:34:24.751155+00:00
+[2025-12-04T23:34:24.759+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.100 seconds
+[2025-12-04T23:35:10.322+0600] {processor.py:157} INFO - Started process (PID=40219) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:35:10.323+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:35:10.324+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:35:10.323+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:35:10.335+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:35:10.407+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:35:10.407+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:35:10.414+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:35:10.414+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:35:10.414002+00:00, run_after=2025-12-04T17:35:10.414002+00:00
+[2025-12-04T23:35:10.421+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.099 seconds
+[2025-12-04T23:35:59.043+0600] {processor.py:157} INFO - Started process (PID=40257) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:35:59.045+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:35:59.045+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:35:59.045+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:35:59.056+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:35:59.127+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:35:59.127+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:35:59.134+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:35:59.134+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:35:59.134001+00:00, run_after=2025-12-04T17:35:59.134001+00:00
+[2025-12-04T23:35:59.143+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.100 seconds
+[2025-12-04T23:36:46.893+0600] {processor.py:157} INFO - Started process (PID=40303) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:36:46.894+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:36:46.894+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:36:46.894+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:36:46.906+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:36:46.985+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:36:46.984+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:36:46.991+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:36:46.991+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:36:46.991239+00:00, run_after=2025-12-04T17:36:46.991239+00:00
+[2025-12-04T23:36:46.998+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.106 seconds
+[2025-12-04T23:37:31.866+0600] {processor.py:157} INFO - Started process (PID=40360) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:37:31.867+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:37:31.867+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:37:31.867+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:37:31.878+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:37:31.948+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:37:31.948+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:37:31.954+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:37:31.954+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:37:31.954845+00:00, run_after=2025-12-04T17:37:31.954845+00:00
+[2025-12-04T23:37:31.965+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.099 seconds
+[2025-12-04T23:38:17.386+0600] {processor.py:157} INFO - Started process (PID=40393) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:38:17.387+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:38:17.388+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:38:17.388+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:38:17.399+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:38:17.471+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:38:17.471+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:38:17.477+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:38:17.477+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:38:17.477480+00:00, run_after=2025-12-04T17:38:17.477480+00:00
+[2025-12-04T23:38:17.485+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.099 seconds
+[2025-12-04T23:39:07.069+0600] {processor.py:157} INFO - Started process (PID=40431) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:39:07.071+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:39:07.071+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:39:07.071+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:39:07.084+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:39:07.161+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:39:07.161+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:39:07.167+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:39:07.167+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:39:07.167255+00:00, run_after=2025-12-04T17:39:07.167255+00:00
+[2025-12-04T23:39:07.176+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.107 seconds
+[2025-12-04T23:39:53.706+0600] {processor.py:157} INFO - Started process (PID=40480) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:39:53.707+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:39:53.708+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:39:53.707+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:39:53.719+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:39:53.791+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:39:53.790+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:39:53.797+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:39:53.797+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:39:53.797173+00:00, run_after=2025-12-04T17:39:53.797173+00:00
+[2025-12-04T23:39:53.804+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.099 seconds
+[2025-12-04T23:40:40.913+0600] {processor.py:157} INFO - Started process (PID=40566) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:40:40.915+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:40:40.915+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:40:40.915+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:40:40.928+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:40:41.000+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:40:40.999+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:40:41.006+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:40:41.006+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:40:41.006089+00:00, run_after=2025-12-04T17:40:41.006089+00:00
+[2025-12-04T23:40:41.013+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.101 seconds
+[2025-12-04T23:41:29.953+0600] {processor.py:157} INFO - Started process (PID=40612) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:41:29.955+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:41:29.956+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:41:29.955+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:41:29.967+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:41:30.040+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:41:30.040+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:41:30.047+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:41:30.047+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:41:30.046955+00:00, run_after=2025-12-04T17:41:30.046955+00:00
+[2025-12-04T23:41:30.054+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.101 seconds
+[2025-12-04T23:42:12.689+0600] {processor.py:157} INFO - Started process (PID=40658) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:42:12.690+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:42:12.690+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:42:12.690+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:42:12.702+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:42:12.774+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:42:12.774+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:42:12.780+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:42:12.780+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:42:12.780450+00:00, run_after=2025-12-04T17:42:12.780450+00:00
+[2025-12-04T23:42:12.788+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.099 seconds
+[2025-12-04T23:42:57.008+0600] {processor.py:157} INFO - Started process (PID=40723) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:42:57.009+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:42:57.010+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:42:57.010+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:42:57.022+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:42:57.097+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:42:57.097+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:42:57.104+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:42:57.104+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:42:57.104036+00:00, run_after=2025-12-04T17:42:57.104036+00:00
+[2025-12-04T23:42:57.111+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.104 seconds
+[2025-12-04T23:43:44.403+0600] {processor.py:157} INFO - Started process (PID=40858) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:43:44.404+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:43:44.404+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:43:44.404+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:43:44.416+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:43:44.610+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:43:44.610+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:43:44.623+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:43:44.623+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:43:44.623311+00:00, run_after=2025-12-04T17:43:44.623311+00:00
+[2025-12-04T23:43:44.634+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.232 seconds
+[2025-12-04T23:44:33.886+0600] {processor.py:157} INFO - Started process (PID=40974) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:44:33.888+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:44:33.888+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:44:33.888+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:44:33.901+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:44:33.980+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:44:33.979+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:44:33.986+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:44:33.986+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:44:33.986523+00:00, run_after=2025-12-04T17:44:33.986523+00:00
+[2025-12-04T23:44:33.995+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.110 seconds
+[2025-12-04T23:45:21.419+0600] {processor.py:157} INFO - Started process (PID=41073) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:45:21.420+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:45:21.420+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:45:21.420+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:45:21.432+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:45:21.505+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:45:21.505+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:45:21.511+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:45:21.511+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:45:21.511608+00:00, run_after=2025-12-04T17:45:21.511608+00:00
+[2025-12-04T23:45:21.520+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.102 seconds
+[2025-12-04T23:46:09.692+0600] {processor.py:157} INFO - Started process (PID=41293) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:46:09.693+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:46:09.694+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:46:09.694+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:46:09.717+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:46:09.797+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:46:09.797+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:46:09.804+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:46:09.804+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:46:09.804375+00:00, run_after=2025-12-04T17:46:09.804375+00:00
+[2025-12-04T23:46:09.812+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.121 seconds
+[2025-12-04T23:46:56.273+0600] {processor.py:157} INFO - Started process (PID=41474) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:46:56.275+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:46:56.275+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:46:56.275+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:46:56.286+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:46:56.355+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:46:56.355+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:46:56.361+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:46:56.361+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:46:56.361629+00:00, run_after=2025-12-04T17:46:56.361629+00:00
+[2025-12-04T23:46:56.369+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.096 seconds
+[2025-12-04T23:47:41.579+0600] {processor.py:157} INFO - Started process (PID=41592) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:47:41.580+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:47:41.581+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:47:41.581+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:47:41.594+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:47:41.674+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:47:41.674+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:47:41.680+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:47:41.680+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:47:41.680570+00:00, run_after=2025-12-04T17:47:41.680570+00:00
+[2025-12-04T23:47:41.691+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.112 seconds
+[2025-12-04T23:48:23.426+0600] {processor.py:157} INFO - Started process (PID=41650) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:48:23.427+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:48:23.427+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:48:23.427+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:48:23.438+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:48:23.512+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:48:23.512+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:48:23.519+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:48:23.519+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:48:23.519005+00:00, run_after=2025-12-04T17:48:23.519005+00:00
+[2025-12-04T23:48:23.526+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.100 seconds
+[2025-12-04T23:49:08.039+0600] {processor.py:157} INFO - Started process (PID=41693) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:49:08.041+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:49:08.041+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:49:08.041+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:49:08.054+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:49:08.129+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:49:08.128+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:49:08.136+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:49:08.135+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:49:08.135765+00:00, run_after=2025-12-04T17:49:08.135765+00:00
+[2025-12-04T23:49:08.143+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.105 seconds
+[2025-12-04T23:49:54.698+0600] {processor.py:157} INFO - Started process (PID=41781) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:49:54.699+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:49:54.700+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:49:54.699+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:49:54.711+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:49:54.781+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:49:54.781+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:49:54.787+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:49:54.787+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:49:54.787314+00:00, run_after=2025-12-04T17:49:54.787314+00:00
+[2025-12-04T23:49:54.794+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.096 seconds
+[2025-12-04T23:50:44.801+0600] {processor.py:157} INFO - Started process (PID=41820) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:50:44.802+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:50:44.803+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:50:44.803+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:50:44.814+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:50:44.884+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:50:44.884+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:50:44.890+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:50:44.890+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:50:44.890730+00:00, run_after=2025-12-04T17:50:44.890730+00:00
+[2025-12-04T23:50:44.898+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.097 seconds
+[2025-12-04T23:51:34.309+0600] {processor.py:157} INFO - Started process (PID=41933) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:51:34.310+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:51:34.311+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:51:34.311+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:51:34.323+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:51:34.396+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:51:34.396+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:51:34.402+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:51:34.402+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:51:34.402354+00:00, run_after=2025-12-04T17:51:34.402354+00:00
+[2025-12-04T23:51:34.410+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.102 seconds
+[2025-12-04T23:52:21.235+0600] {processor.py:157} INFO - Started process (PID=42056) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:52:21.236+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:52:21.236+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:52:21.236+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:52:21.249+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:52:21.325+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:52:21.325+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:52:21.331+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:52:21.331+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:52:21.331593+00:00, run_after=2025-12-04T17:52:21.331593+00:00
+[2025-12-04T23:52:21.339+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.105 seconds
+[2025-12-04T23:53:08.494+0600] {processor.py:157} INFO - Started process (PID=42114) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:53:08.496+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:53:08.496+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:53:08.496+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:53:08.508+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:53:08.580+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:53:08.580+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:53:08.587+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:53:08.587+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:53:08.587194+00:00, run_after=2025-12-04T17:53:08.587194+00:00
+[2025-12-04T23:53:08.595+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.102 seconds
+[2025-12-04T23:53:56.434+0600] {processor.py:157} INFO - Started process (PID=42156) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:53:56.436+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:53:56.436+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:53:56.436+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:53:56.449+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:53:56.519+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:53:56.519+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:53:56.525+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:53:56.525+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:53:56.525559+00:00, run_after=2025-12-04T17:53:56.525559+00:00
+[2025-12-04T23:53:56.534+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.101 seconds
+[2025-12-04T23:54:40.648+0600] {processor.py:157} INFO - Started process (PID=42195) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:54:40.650+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:54:40.650+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:54:40.650+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:54:40.663+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:54:40.735+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:54:40.735+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:54:40.741+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:54:40.741+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:54:40.741574+00:00, run_after=2025-12-04T17:54:40.741574+00:00
+[2025-12-04T23:54:40.750+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.102 seconds
+[2025-12-04T23:55:24.788+0600] {processor.py:157} INFO - Started process (PID=42233) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:55:24.789+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:55:24.789+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:55:24.789+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:55:24.801+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:55:24.873+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:55:24.873+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:55:24.880+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:55:24.880+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:55:24.880779+00:00, run_after=2025-12-04T17:55:24.880779+00:00
+[2025-12-04T23:55:24.893+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.107 seconds
+[2025-12-04T23:56:07.832+0600] {processor.py:157} INFO - Started process (PID=42272) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:56:07.833+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:56:07.833+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:56:07.833+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:56:07.845+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:56:07.915+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:56:07.915+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:56:07.922+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:56:07.921+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:56:07.921890+00:00, run_after=2025-12-04T17:56:07.921890+00:00
+[2025-12-04T23:56:07.929+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.098 seconds
+[2025-12-04T23:56:53.355+0600] {processor.py:157} INFO - Started process (PID=42307) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:56:53.356+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:56:53.357+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:56:53.357+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:56:53.369+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:56:53.441+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:56:53.441+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:56:53.447+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:56:53.447+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:56:53.447420+00:00, run_after=2025-12-04T17:56:53.447420+00:00
+[2025-12-04T23:56:53.455+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.100 seconds
+[2025-12-04T23:57:38.241+0600] {processor.py:157} INFO - Started process (PID=42344) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:57:38.242+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:57:38.242+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:57:38.242+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:57:38.254+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:57:38.326+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:57:38.326+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:57:38.333+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:57:38.333+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:57:38.332982+00:00, run_after=2025-12-04T17:57:38.332982+00:00
+[2025-12-04T23:57:38.340+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.100 seconds
+[2025-12-04T23:58:20.459+0600] {processor.py:157} INFO - Started process (PID=42390) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:58:20.460+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:58:20.460+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:58:20.460+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:58:20.476+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:58:20.547+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:58:20.547+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:58:20.554+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:58:20.554+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:58:20.554097+00:00, run_after=2025-12-04T17:58:20.554097+00:00
+[2025-12-04T23:58:20.562+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.103 seconds
+[2025-12-04T23:59:04.739+0600] {processor.py:157} INFO - Started process (PID=42429) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:59:04.740+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:59:04.740+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:59:04.740+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:59:04.752+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:59:04.828+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:59:04.828+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:59:04.835+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:59:04.835+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:59:04.835375+00:00, run_after=2025-12-04T17:59:04.835375+00:00
+[2025-12-04T23:59:04.843+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.105 seconds
+[2025-12-04T23:59:48.452+0600] {processor.py:157} INFO - Started process (PID=42642) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:59:48.453+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-04T23:59:48.453+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:59:48.453+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:59:48.465+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-04T23:59:48.540+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:59:48.540+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:59:48.547+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:59:48.547+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T17:59:48.547092+00:00, run_after=2025-12-04T17:59:48.547092+00:00
+[2025-12-04T23:59:48.555+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.104 seconds
+[2025-12-05T00:00:37.546+0600] {processor.py:157} INFO - Started process (PID=42678) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:00:37.548+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-05T00:00:37.548+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:00:37.548+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:00:37.565+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:00:37.647+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:00:37.647+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:00:37.654+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:00:37.654+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T18:00:37.654287+00:00, run_after=2025-12-04T18:00:37.654287+00:00
+[2025-12-05T00:00:37.662+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.117 seconds
+[2025-12-05T00:01:25.474+0600] {processor.py:157} INFO - Started process (PID=42854) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:01:25.475+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-05T00:01:25.476+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:01:25.476+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:01:25.489+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:01:25.564+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:01:25.564+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:01:25.572+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:01:25.571+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T18:01:25.571933+00:00, run_after=2025-12-04T18:01:25.571933+00:00
+[2025-12-05T00:01:25.580+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.107 seconds
+[2025-12-05T00:02:12.614+0600] {processor.py:157} INFO - Started process (PID=42909) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:02:12.615+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-05T00:02:12.616+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:02:12.616+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:02:12.630+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:02:12.713+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:02:12.713+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:02:12.720+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:02:12.720+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T18:02:12.720684+00:00, run_after=2025-12-04T18:02:12.720684+00:00
+[2025-12-05T00:02:12.729+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.117 seconds
+[2025-12-05T00:02:57.864+0600] {processor.py:157} INFO - Started process (PID=42947) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:02:57.865+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-05T00:02:57.866+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:02:57.866+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:02:57.878+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:02:57.949+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:02:57.949+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:02:57.956+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:02:57.955+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T18:02:57.955913+00:00, run_after=2025-12-04T18:02:57.955913+00:00
+[2025-12-05T00:02:57.963+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.100 seconds
+[2025-12-05T00:03:44.802+0600] {processor.py:157} INFO - Started process (PID=42983) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:03:44.804+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-05T00:03:44.804+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:03:44.804+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:03:44.815+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:03:44.886+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:03:44.886+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:03:44.892+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:03:44.892+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T18:03:44.892756+00:00, run_after=2025-12-04T18:03:44.892756+00:00
+[2025-12-05T00:03:44.900+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.098 seconds
+[2025-12-05T00:04:30.938+0600] {processor.py:157} INFO - Started process (PID=43142) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:04:30.939+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-05T00:04:30.939+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:04:30.939+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:04:30.951+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:04:31.023+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:04:31.023+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:04:31.030+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:04:31.030+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T18:04:31.030271+00:00, run_after=2025-12-04T18:04:31.030271+00:00
+[2025-12-05T00:04:31.037+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.100 seconds
+[2025-12-05T00:05:19.023+0600] {processor.py:157} INFO - Started process (PID=43244) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:05:19.025+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-05T00:05:19.027+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:05:19.027+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:05:19.192+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:05:19.381+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:05:19.381+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:05:19.389+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:05:19.388+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T18:05:19.388862+00:00, run_after=2025-12-04T18:05:19.388862+00:00
+[2025-12-05T00:05:19.400+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.378 seconds
+[2025-12-05T00:06:05.578+0600] {processor.py:157} INFO - Started process (PID=43326) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:06:05.580+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-05T00:06:05.580+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:06:05.580+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:06:05.594+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:06:05.671+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:06:05.670+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:06:05.677+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:06:05.677+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T18:06:05.677682+00:00, run_after=2025-12-04T18:06:05.677682+00:00
+[2025-12-05T00:06:05.685+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.107 seconds
+[2025-12-05T00:06:48.755+0600] {processor.py:157} INFO - Started process (PID=43404) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:06:48.755+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-05T00:06:48.756+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:06:48.756+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:06:48.766+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:06:48.837+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:06:48.837+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:06:48.843+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:06:48.843+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T18:06:48.843314+00:00, run_after=2025-12-04T18:06:48.843314+00:00
+[2025-12-05T00:06:48.851+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.097 seconds
+[2025-12-05T00:07:31.187+0600] {processor.py:157} INFO - Started process (PID=43470) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:07:31.188+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-05T00:07:31.188+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:07:31.188+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:07:31.200+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:07:31.271+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:07:31.271+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:07:31.277+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:07:31.277+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T18:07:31.277654+00:00, run_after=2025-12-04T18:07:31.277654+00:00
+[2025-12-05T00:07:31.286+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.099 seconds
+[2025-12-05T00:08:15.709+0600] {processor.py:157} INFO - Started process (PID=43541) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:08:15.710+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-05T00:08:15.710+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:08:15.710+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:08:15.723+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:08:15.800+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:08:15.800+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:08:15.807+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:08:15.807+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T18:08:15.807597+00:00, run_after=2025-12-04T18:08:15.807597+00:00
+[2025-12-05T00:08:15.816+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.108 seconds
+[2025-12-05T00:08:59.044+0600] {processor.py:157} INFO - Started process (PID=43626) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:08:59.045+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-05T00:08:59.046+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:08:59.046+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:08:59.056+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:08:59.129+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:08:59.129+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:08:59.135+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:08:59.135+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T18:08:59.135845+00:00, run_after=2025-12-04T18:08:59.135845+00:00
+[2025-12-05T00:08:59.143+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.100 seconds
+[2025-12-05T00:09:47.061+0600] {processor.py:157} INFO - Started process (PID=43709) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:09:47.062+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-05T00:09:47.063+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:09:47.062+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:09:47.076+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:09:47.156+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:09:47.156+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:09:47.163+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:09:47.163+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T18:09:47.163263+00:00, run_after=2025-12-04T18:09:47.163263+00:00
+[2025-12-05T00:09:47.172+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.111 seconds
+[2025-12-05T00:10:36.024+0600] {processor.py:157} INFO - Started process (PID=43790) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:10:36.026+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-05T00:10:36.026+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:10:36.026+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:10:36.038+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:10:36.112+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:10:36.111+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:10:36.118+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:10:36.118+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T18:10:36.118332+00:00, run_after=2025-12-04T18:10:36.118332+00:00
+[2025-12-05T00:10:36.126+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.102 seconds
+[2025-12-05T00:11:23.796+0600] {processor.py:157} INFO - Started process (PID=43864) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:11:23.798+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-05T00:11:23.798+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:11:23.798+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:11:23.811+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:11:23.890+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:11:23.890+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:11:23.896+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:11:23.896+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T18:11:23.896596+00:00, run_after=2025-12-04T18:11:23.896596+00:00
+[2025-12-05T00:11:23.905+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.109 seconds
+[2025-12-05T00:12:09.702+0600] {processor.py:157} INFO - Started process (PID=43953) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:12:09.704+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-05T00:12:09.704+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:12:09.704+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:12:09.716+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:12:09.793+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:12:09.792+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:12:09.799+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:12:09.799+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T18:12:09.799653+00:00, run_after=2025-12-04T18:12:09.799653+00:00
+[2025-12-05T00:12:09.808+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.107 seconds
+[2025-12-05T00:12:54.507+0600] {processor.py:157} INFO - Started process (PID=44048) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:12:54.509+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2025-12-05T00:12:54.509+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:12:54.509+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:12:54.520+0600] {processor.py:839} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py
+[2025-12-05T00:12:54.594+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:12:54.594+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:12:54.601+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:12:54.601+0600] {dag.py:3722} INFO - Setting next_dagrun for tutorial to 2025-12-03T18:12:54.601059+00:00, run_after=2025-12-04T18:12:54.601059+00:00
+[2025-12-05T00:12:54.608+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/tutorial.py took 0.102 seconds

@@ -1,0 +1,7 @@
+pandas - 2.2.2
+chromedriver - 143.0.7499.40
+selenium - 4.23.0
+sqlite3-binary - 0.0.1
+apache-airflow - 2.10.2
+sqlalchemy - 2.0.36
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"

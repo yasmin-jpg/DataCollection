@@ -1,0 +1,256 @@
+[2025-12-04T23:18:30.054+0600] {processor.py:157} INFO - Started process (PID=38975) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:18:30.054+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:18:30.055+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:18:30.055+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:18:30.068+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:18:30.324+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:18:30.324+0600] {manager.py:499} INFO - Created Permission View: %s
+[2025-12-04T23:18:30.327+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:18:30.327+0600] {manager.py:499} INFO - Created Permission View: %s
+[2025-12-04T23:18:30.329+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:18:30.329+0600] {manager.py:499} INFO - Created Permission View: %s
+[2025-12-04T23:18:30.329+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:18:30.329+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:18:30.334+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:18:30.334+0600] {dag.py:2963} INFO - Creating ORM DAG for example_complex
+[2025-12-04T23:18:30.334+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:18:30.334+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:18:30.342+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.288 seconds
+[2025-12-04T23:19:58.497+0600] {processor.py:157} INFO - Started process (PID=39082) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:19:58.498+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:19:58.499+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:19:58.499+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:19:58.512+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:19:58.586+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:19:58.586+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:19:58.590+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:19:58.590+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:19:58.597+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2025-12-04T23:21:26.902+0600] {processor.py:157} INFO - Started process (PID=39182) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:21:26.903+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:21:26.903+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:21:26.903+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:21:26.916+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:21:26.995+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:21:26.995+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:21:26.999+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:21:26.999+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:21:27.007+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.106 seconds
+[2025-12-04T23:22:50.940+0600] {processor.py:157} INFO - Started process (PID=39275) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:22:50.941+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:22:50.941+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:22:50.941+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:22:50.955+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:22:51.054+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:22:51.054+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:22:51.057+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:22:51.057+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:22:51.071+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.133 seconds
+[2025-12-04T23:24:27.265+0600] {processor.py:157} INFO - Started process (PID=39473) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:24:27.265+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:24:27.266+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:24:27.266+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:24:27.279+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:24:27.354+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:24:27.354+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:24:27.358+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:24:27.358+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:24:27.365+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2025-12-04T23:26:00.348+0600] {processor.py:157} INFO - Started process (PID=39559) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:26:00.349+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:26:00.349+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:26:00.349+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:26:00.361+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:26:00.435+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:26:00.435+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:26:00.439+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:26:00.439+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:26:00.447+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.099 seconds
+[2025-12-04T23:27:41.180+0600] {processor.py:157} INFO - Started process (PID=39666) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:27:41.181+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:27:41.181+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:27:41.181+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:27:41.194+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:27:41.268+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:27:41.268+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:27:41.271+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:27:41.271+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:27:41.280+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2025-12-04T23:29:05.328+0600] {processor.py:157} INFO - Started process (PID=39748) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:29:05.329+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:29:05.329+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:29:05.329+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:29:05.342+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:29:05.419+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:29:05.419+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:29:05.422+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:29:05.422+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:29:05.430+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.102 seconds
+[2025-12-04T23:30:28.994+0600] {processor.py:157} INFO - Started process (PID=39818) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:30:28.995+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:30:28.995+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:30:28.995+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:30:29.008+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:30:29.085+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:30:29.085+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:30:29.089+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:30:29.089+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:30:29.096+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.103 seconds
+[2025-12-04T23:31:51.728+0600] {processor.py:157} INFO - Started process (PID=39885) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:31:51.729+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:31:51.729+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:31:51.729+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:31:51.743+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:31:51.821+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:31:51.821+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:31:51.824+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:31:51.824+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:31:51.832+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.104 seconds
+[2025-12-04T23:33:18.958+0600] {processor.py:157} INFO - Started process (PID=40107) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:33:18.959+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:33:18.959+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:33:18.959+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:33:18.972+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:33:19.048+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:33:19.047+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:33:19.051+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:33:19.051+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:33:19.059+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2025-12-04T23:34:44.354+0600] {processor.py:157} INFO - Started process (PID=40194) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:34:44.356+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:34:44.356+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:34:44.356+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:34:44.369+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:34:44.444+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:34:44.444+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:34:44.448+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:34:44.448+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:34:44.456+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.103 seconds
+[2025-12-04T23:36:23.600+0600] {processor.py:157} INFO - Started process (PID=40280) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:36:23.601+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:36:23.601+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:36:23.601+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:36:23.614+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:36:23.691+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:36:23.690+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:36:23.695+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:36:23.695+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:36:23.705+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.106 seconds
+[2025-12-04T23:37:51.661+0600] {processor.py:157} INFO - Started process (PID=40375) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:37:51.662+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:37:51.663+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:37:51.663+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:37:51.676+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:37:51.750+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:37:51.750+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:37:51.754+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:37:51.754+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:37:51.762+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.102 seconds
+[2025-12-04T23:39:29.201+0600] {processor.py:157} INFO - Started process (PID=40461) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:39:29.202+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:39:29.202+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:39:29.202+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:39:29.216+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:39:29.299+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:39:29.298+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:39:29.303+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:39:29.303+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:39:29.312+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.112 seconds
+[2025-12-04T23:41:05.758+0600] {processor.py:157} INFO - Started process (PID=40587) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:41:05.759+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:41:05.759+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:41:05.759+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:41:05.772+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:41:05.847+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:41:05.847+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:41:05.851+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:41:05.851+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:41:05.859+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.102 seconds
+[2025-12-04T23:42:30.707+0600] {processor.py:157} INFO - Started process (PID=40674) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:42:30.707+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:42:30.708+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:42:30.708+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:42:30.723+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:42:30.804+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:42:30.804+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:42:30.808+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:42:30.808+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:42:30.817+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.111 seconds
+[2025-12-04T23:44:07.999+0600] {processor.py:157} INFO - Started process (PID=40876) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:44:08.000+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:44:08.000+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:44:08.000+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:44:08.013+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:44:08.088+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:44:08.088+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:44:08.092+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:44:08.092+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:44:08.099+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2025-12-04T23:45:43.646+0600] {processor.py:157} INFO - Started process (PID=41178) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:45:43.647+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:45:43.647+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:45:43.647+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:45:43.661+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:45:43.736+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:45:43.736+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:45:43.740+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:45:43.739+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:45:43.747+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2025-12-04T23:47:19.962+0600] {processor.py:157} INFO - Started process (PID=41562) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:47:19.963+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:47:19.963+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:47:19.963+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:47:19.977+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:47:20.055+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:47:20.055+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:47:20.059+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:47:20.059+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:47:20.066+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.105 seconds
+[2025-12-04T23:48:44.499+0600] {processor.py:157} INFO - Started process (PID=41675) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:48:44.500+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:48:44.500+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:48:44.500+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:48:44.513+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:48:44.591+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:48:44.591+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:48:44.594+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:48:44.594+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:48:44.602+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.105 seconds
+[2025-12-04T23:50:19.198+0600] {processor.py:157} INFO - Started process (PID=41798) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:50:19.199+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:50:19.199+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:50:19.199+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:50:19.212+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:50:19.288+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:50:19.288+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:50:19.292+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:50:19.292+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:50:19.300+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.102 seconds
+[2025-12-04T23:51:56.351+0600] {processor.py:157} INFO - Started process (PID=42036) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:51:56.351+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:51:56.352+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:51:56.351+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:51:56.364+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:51:56.439+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:51:56.439+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:51:56.442+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:51:56.442+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:51:56.450+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2025-12-04T23:53:33.247+0600] {processor.py:157} INFO - Started process (PID=42137) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:53:33.248+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:53:33.248+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:53:33.248+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:53:33.262+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:53:33.348+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:53:33.348+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:53:33.352+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:53:33.352+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:53:33.363+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.117 seconds
+[2025-12-04T23:54:59.386+0600] {processor.py:157} INFO - Started process (PID=42214) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:54:59.387+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:54:59.387+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:54:59.387+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:54:59.400+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:54:59.475+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:54:59.475+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:54:59.479+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:54:59.479+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:54:59.486+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2025-12-04T23:56:28.853+0600] {processor.py:157} INFO - Started process (PID=42289) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:56:28.854+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:56:28.854+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:56:28.854+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:56:28.866+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:56:28.941+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:56:28.940+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:56:28.944+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:56:28.944+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:56:28.952+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.100 seconds
+[2025-12-04T23:57:57.713+0600] {processor.py:157} INFO - Started process (PID=42370) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:57:57.714+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:57:57.714+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:57:57.714+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:57:57.729+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:57:57.809+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:57:57.809+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:57:57.813+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:57:57.813+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:57:57.821+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.108 seconds
+[2025-12-04T23:59:26.033+0600] {processor.py:157} INFO - Started process (PID=42615) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:59:26.033+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-04T23:59:26.034+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:59:26.034+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:59:26.046+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-04T23:59:26.121+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:59:26.121+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-04T23:59:26.125+0600] {logging_mixin.py:154} INFO - [2025-12-04T23:59:26.125+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-04T23:59:26.133+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2025-12-05T00:01:02.235+0600] {processor.py:157} INFO - Started process (PID=42835) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:01:02.236+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-05T00:01:02.236+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:01:02.236+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:01:02.249+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:01:02.325+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:01:02.325+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:01:02.329+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:01:02.329+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-05T00:01:02.337+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.102 seconds
+[2025-12-05T00:02:34.414+0600] {processor.py:157} INFO - Started process (PID=42928) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:02:34.416+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-05T00:02:34.416+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:02:34.416+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:02:34.430+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:02:34.507+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:02:34.506+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:02:34.510+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:02:34.510+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-05T00:02:34.518+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.105 seconds
+[2025-12-05T00:04:06.790+0600] {processor.py:157} INFO - Started process (PID=43072) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:04:06.791+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-05T00:04:06.792+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:04:06.791+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:04:06.804+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:04:06.879+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:04:06.879+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:04:06.883+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:04:06.883+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-05T00:04:06.890+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.101 seconds
+[2025-12-05T00:05:43.151+0600] {processor.py:157} INFO - Started process (PID=43285) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:05:43.153+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-05T00:05:43.153+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:05:43.153+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:05:43.166+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:05:43.250+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:05:43.249+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:05:43.254+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:05:43.254+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-05T00:05:43.262+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.112 seconds
+[2025-12-05T00:07:08.231+0600] {processor.py:157} INFO - Started process (PID=43431) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:07:08.232+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-05T00:07:08.233+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:07:08.232+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:07:08.245+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:07:08.323+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:07:08.322+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:07:08.326+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:07:08.326+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-05T00:07:08.334+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.103 seconds
+[2025-12-05T00:08:35.134+0600] {processor.py:157} INFO - Started process (PID=43585) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:08:35.135+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-05T00:08:35.136+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:08:35.136+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:08:35.150+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:08:35.239+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:08:35.239+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:08:35.243+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:08:35.243+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-05T00:08:35.253+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.119 seconds
+[2025-12-05T00:10:11.170+0600] {processor.py:157} INFO - Started process (PID=43749) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:10:11.172+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-05T00:10:11.172+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:10:11.172+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:10:11.200+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:10:11.308+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:10:11.308+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:10:11.312+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:10:11.312+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-05T00:10:11.322+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.153 seconds
+[2025-12-05T00:11:44.872+0600] {processor.py:157} INFO - Started process (PID=43907) to work on /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:11:44.873+0600] {processor.py:829} INFO - Processing file /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2025-12-05T00:11:44.873+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:11:44.873+0600] {dagbag.py:536} INFO - Filling up the DagBag from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:11:44.886+0600] {processor.py:839} INFO - DAG(s) dict_keys(['example_complex']) retrieved from /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py
+[2025-12-05T00:11:44.961+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:11:44.961+0600] {dag.py:2941} INFO - Sync 1 DAGs
+[2025-12-05T00:11:44.965+0600] {logging_mixin.py:154} INFO - [2025-12-05T00:11:44.965+0600] {dag.py:3722} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2025-12-05T00:11:44.973+0600] {processor.py:179} INFO - Processing /Users/asminsadykova/Desktop/h&m/.venv/lib/python3.9/site-packages/airflow/example_dags/example_complex.py took 0.102 seconds
